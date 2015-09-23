@@ -9,5 +9,8 @@
  * @author Atsolakid_Desktop
  */
 public class NewClass {
-    
+    sdfsdfsdf
+            
+            
+            sdfs
 }
