@@ -1,0 +1,35 @@
+id	eid	title	creator	year	cit	type	source
+1	10.1016/j.asoc.2010.10.012	A soft computing approach for privacy requirements engineering: The PriS framework	Christos, Kalloniatis	October 2011	NULL	science	Applied Soft Computing
+2	10.1016/j.sbspro.2013.02.075	Personalized Adaptive Networked Learning for Disabled Students & Social Networking for the Inclusion of students β€“ The Multimedu tool	Nektarios, Giannoulis	27 February 2013	NULL	science	Procedia - Social and Behavioral Sciences
+3	10.1016/j.sbspro.2013.02.080	Applying Linked Data Technologies to Greek Open Government Data: A Case Study	Eleni, Galiotou	27 February 2013	NULL	science	Procedia - Social and Behavioral Sciences
+4	10.1016/j.sbspro.2013.02.081	Employing Ubiquitous Computing Devices and Technologies in the Higher Education Classroom of the Future	Catherine, Marinagi	27 February 2013	NULL	science	Procedia - Social and Behavioral Sciences
+5	10.1016/j.sbspro.2013.02.082	New Directions for Pervasive Computing in Logistics	Catherine, Marinagi	27 February 2013	NULL	science	Procedia - Social and Behavioral Sciences
+6	10.1016/j.sbspro.2013.02.084	Extraction of Rules based on Studentsβ€™ Questionnaires	Manolis, Chalaris	27 February 2013	NULL	science	Procedia - Social and Behavioral Sciences
+7	10.1016/j.sbspro.2014.07.098	Combining Probabilistic Classifiers for Text Classification	Kostas, Fragos	25 August 2014	NULL	science	Procedia - Social and Behavioral Sciences
+8	10.1016/j.sbspro.2014.07.099	Sharing Knowledge and Integrated Information in Therapeutic Radiological Physics	Argyroula, Christopoulou	25 August 2014	NULL	science	Procedia - Social and Behavioral Sciences
+9	10.1016/j.sbspro.2014.07.113	A Methodology for Building Simple but Robust Stemmers without Language Knowledge: Stemmer Configuration	Nikitas N., Karanikolas	25 August 2014	NULL	science	Procedia - Social and Behavioral Sciences
+10	10.1016/j.sbspro.2014.07.118	Knowledge and Information in Nutrition Software Design	Nikitas N., Karanikolas	25 August 2014	NULL	science	Procedia - Social and Behavioral Sciences
+11	10.1016/j.sbspro.2014.07.122	Risk Reduction Strategies in Online Shopping: E-trust Perspective	Angeliki, Vos	25 August 2014	NULL	science	Procedia - Social and Behavioral Sciences
+12	10.1016/j.sbspro.2014.07.133	The Human Factor of Information Security: Unintentional Damage Perspective	Efthymia, Metalidou	25 August 2014	NULL	science	Procedia - Social and Behavioral Sciences
+13	10.1016/j.sbspro.2014.07.134	An Agent Based Architecture Benchmark	Petros, Belsis	25 August 2014	NULL	science	Procedia - Social and Behavioral Sciences
+14	10.1016/j.sbspro.2014.07.138	Asia Minor Greek: Towards a Computational Processing	Eleni, Galiotou	25 August 2014	NULL	science	Procedia - Social and Behavioral Sciences
+15	10.1016/j.sbspro.2014.07.141	Enriching the e-GIF Ontology for an Improved Application of Linking Data Technologies to Greek Open Government Data	Pavlina, Fragkou	25 August 2014	NULL	science	Procedia - Social and Behavioral Sciences
+16	10.1016/j.sbspro.2014.07.159	The Analysis of the Length of Studies in Higher Education based on Clustering and the Extraction of Association Rules	Petros, Belsis	25 August 2014	NULL	science	Procedia - Social and Behavioral Sciences
+17	manual_1	Sharing Knowledge and Integrated Information in Therapeutic Radiological Physics	NULL	NULL	NULL	Journal	science
+18	manual_10	 A Resource Reservation and Traffic Categorization Agent for QoS in Medical Ad Hoc Networks	NULL	NULL	NULL	Journal	NULL
+19	manual_11	A Lattice Computing Extension of the FAM Neural Classifier for Human Facial Expression Recognition	NULL	NULL	NULL	Journal	NULL
+20	manual_12	Secure Management of Medical Data in Wireless Environments	NULL	NULL	NULL	Journal	NULL
+21	manual_13	A Resource Reservation and Traffic Categorization Agent for QoS in Medical Ad Hoc Networks	NULL	NULL	NULL	Journal	NULL
+22	manual_14	 A Lattice Computing Extension of the FAM Neural Classifier for Human Facial Expression Recognition	NULL	NULL	NULL	NULL	NULL
+23	manual_15	Secure Management of Medical Data in Wireless Environments	NULL	NULL	NULL	NULL	NULL
+24	manual_16	Secure Wireless Infrastructures and Mobile Learning for Deaf and Hard-of-Hearing Student	NULL	NULL	NULL	NULL	NULL
+25	manual_17	 A Wireless Architecture for Assistive Mobile Learning Environments	NULL	NULL	NULL	NULL	NULL
+26	manual_18	 Secure electronic healthcare records management in wireless environments	NULL	NULL	NULL	NULL	NULL
+27	manual_2	DSpace and customized controlled vocabularies	NULL	NULL	NULL	Journal	NULL
+28	manual_3	A preliminary investigation into the EuroVoc automatic indexing of Greek documents	NULL	NULL	NULL	Conference Proceeding	NULL
+29	manual_4	Aligning Greek-English  parallel texts	NULL	NULL	NULL	Journal	NULL
+30	manual_5	 Ontologies for Ship’s Flag Search on the Web	NULL	NULL	NULL	Journal	NULL
+31	manual_6	 Summarization as the base for Text Assessment	NULL	NULL	NULL	Conference Proceeding	NULL
+32	manual_7	An ontology based information system for the management of Institutional Repository’s collections	NULL	NULL	NULL	Conference Proceeding	NULL
+33	manual_8	e-Doctor: A Web Based Support Vector Machine for Automatic Medical Diagnosis	NULL	NULL	NULL	Journal	NULL
+34	manual_9	A Wireless System for Secure Electronic Healthcare Records Management	NULL	NULL	NULL	Journal	NULL
